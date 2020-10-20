@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    background-color: #c04cfd;
+}
+
+#section1{
+    background-color: #fc6dab;
+    width: 50%;
+    padding: 5%;
+}
+
+#section1 p{
+ line-height: 30px;
+ font-family: monospace;
+ background-color: bisque;
+}
+
+h1{
+    color: #f8f7ff;
+    font-family: monospace;
+}
